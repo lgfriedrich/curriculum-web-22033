@@ -1,0 +1,20 @@
+
+body {
+    color: green;
+}
+
+/* Selector por etiqueta */
+h2 {
+    color: rgb(138, 41, 120);
+    background-color: pink;
+}
+
+/* Selector por ID */
+#parrafoUnico {
+    color:rgb(0, 0, 0);
+}
+
+/* Selector por clase (class)*/
+.dorado {
+    color: rgba(100, 57, 192, 0.897);
+}
